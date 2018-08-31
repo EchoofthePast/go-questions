@@ -1,6 +1,7 @@
-Q: Can short declaration ":=" be used for defining global variables?
 
-a. Yes
-b. No
+Q: Does Go support type inheritance?
 
-A: b
+    a. Yes
+    b. No
+    
+    a.Yes
